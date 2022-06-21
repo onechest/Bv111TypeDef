@@ -24,6 +24,6 @@ l_t sum(l_t a, l_t b)
 
 void main()
 {
-    setlocale(LC_ALL, "Russian"); //руссификатор
+    setlocale(LC_ALL, ""); //руссификатор
     cout << "Привет" << endl;
 }
